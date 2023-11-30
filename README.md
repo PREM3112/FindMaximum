@@ -57,9 +57,11 @@ def max_marks(list1):
 ![output](./img/max_marks1.jpg) 
 
 ## Output:
-![Alt text](/sorting%201.png) 
-![Alt text](/sorting%202.png) 
-![Alt text](/sorting%203.png)
+![sorting 1](https://github.com/PREM3112/FindMaximum/assets/145449383/535b2964-2e02-41ad-9120-5d1fc46866de)
+![sorting 2](https://github.com/PREM3112/FindMaximum/assets/145449383/92b87b4a-2338-44ce-9f3c-7bea14a15da0)
+![sorting 3](https://github.com/PREM3112/FindMaximum/assets/145449383/2f1aca95-717e-422e-a850-2e9563fcf06f)
+
+
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
